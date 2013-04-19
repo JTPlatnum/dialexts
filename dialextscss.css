@@ -1,0 +1,59 @@
+body{
+	font-style: sans-serif;
+	font-family: arial;
+	background-image: url(http://www.vadim.mn/wp-content/uploads/2012/02/768-light-gray-gradient-2560x1600-abstract-wallpaper.jpg);
+}
+
+/*div {
+ -khtml-opacity:.50; 
+ -moz-opacity:.50; 
+ -ms-filter:"alpha(opacity=50)";
+  filter:alpha(opacity=50);
+  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.5);
+  opacity:.50; 
+}*/
+
+.row{
+	min-height: 75px;
+	/*border: solid black 1px;*/
+	padding: 10px;
+}
+
+#wrapper{
+	padding-top: 25px;
+	width: 980px;
+	min-height: 600px;
+	margin: 0px auto;
+
+}
+
+
+.header{
+	min-height: 75px;
+	font-size: 20px;
+}
+
+.header_right{
+
+}
+
+.options{
+	min-height: 75px;
+	padding-top: 10px;
+}
+
+.entry{
+	min-height: 200px;
+}
+
+#textarea{
+	background: red;
+}
+
+div .options{
+	height: 30px;
+}
+
+div .row{
+	margin-left: -10px;
+}
